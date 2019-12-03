@@ -1,3 +1,4 @@
+nixpkgs:
 { config, lib, pkgs, utils, ... }:
 
 with lib;
